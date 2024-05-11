@@ -6,7 +6,7 @@ I'm a passionate web developer with expertise in **HTML5**, **CSS3**, **JavaScri
 
 ## Skills
 
-- **HTML5** !HTML5: Proficient in structuring web content in a meaningful and accessible way.
+- **HTML5**: Proficient in structuring web content in a meaningful and accessible way.
 - **CSS3**: Skilled in creating visually appealing layouts and animations.
 - **JavaScript**: Experienced in developing dynamic, event-driven applications.
 - **Node.js**: Capable of building efficient back-end services.
